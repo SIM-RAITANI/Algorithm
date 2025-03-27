@@ -29,3 +29,5 @@ int main(){
     }
     cout<<"The Majority Element is : "<<majorityElement(arr)<<endl;
 }
+
+// leetcode link : https://leetcode.com/problems/majority-element/submissions/1588057596/
