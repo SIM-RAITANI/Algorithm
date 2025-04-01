@@ -1,1 +1,2 @@
 it is a sample text file
+my name is sim
